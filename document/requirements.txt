@@ -1,0 +1,19 @@
+# Backend and Frontend Frameworks
+fastapi==0.110.0
+uvicorn==0.29.0
+streamlit==1.34.0
+requests==2.31.0
+
+# Hugging Face Transformers
+transformers==4.41.1
+sentence-transformers==2.7.0
+
+# Pinecone and Env
+pinecone-client==3.0.0
+python-dotenv==1.0.1
+pydantic-settings==2.2.1
+
+# ML and Plotting
+scikit-learn==1.4.2
+pandas==2.2.2
+matplotlib==3.8.4
